@@ -1,0 +1,6 @@
+# Makefile.dep created Sat Dec  9 10:05:21 PST 2017
+commandLine.o: commandLine.cpp commandLine.h file_system.h util.h debug.h
+debug.o: debug.cpp debug.h util.h
+file_system.o: file_system.cpp debug.h file_system.h util.h
+util.o: util.cpp util.h debug.h
+main.o: main.cpp commandLine.h file_system.h util.h debug.h

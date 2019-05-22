@@ -1,0 +1,11 @@
+yolo
+
+
+		114 is about reading each line till the last
+
+		character from the file. 
+
+
+	hello. 
+
+			last character right here!
