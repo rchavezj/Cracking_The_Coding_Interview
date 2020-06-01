@@ -1,7 +1,7 @@
-# Cracking The Coding Interview Solution in C++ (Under Construction)
-# Algoexpert and System Design Expert
-# Leetcode
-# TripleByte
+# Leetcode (C++)
+# TripleByte (So many languages...)
+# Algoexpert and System Design Expert (C++ and Javascript)
+# Cracking The Coding Interview Solution in C++
 
 This repository includes all the solutions coded and drawn out (whiteboard interview) 
 
