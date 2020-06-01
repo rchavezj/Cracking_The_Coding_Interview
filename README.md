@@ -34,7 +34,6 @@ This repository includes all the solutions coded and drawn out (whiteboard inter
 ### ([Return back to Contents](#Contents))
 
 # Sections: 
-### Basics of Computer Vision and OpenCV 
 ### ([Return back to Contents](#Contents))
 
 # Sections: 
