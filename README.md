@@ -9,15 +9,15 @@ This repository includes all the solutions coded and drawn out (whiteboard inter
 # Contents: 
 |                        |                                          |
 | ---------------------- | ---------------------------------------- |
-| 1. [Array and Strings](#Array-and-Strings)                  |  2. [Linked List](#Linked-List) |
-| 3. [Stack and Queues](#Stack-and-Queues)                    |  4. [Trees and Graph](#Trees-and-Graph)|
-| 5. [Bit Manipulation](#Learning-Theory)                     |  6. [Math and Logic Puzzles](#Model-and-Feature-Selection) |
-| 7. [Object-Oriented Design](#Curse-of-Dimensionality)       |  8. [Recursion and Dynamic Programming](#Universal-Approximation-of-Neural-Networks) |
-| 9. [System Design and Scalability](#Deep-Learning-Motivation)     |  10. [Soting and Searching](#Support-Vector-Machine) |
-| 11. [Testing](#Bayesian-Machine-Learning)  |  12. [C and C++](#Regularization) |
-| 13. [Java](#Evaluation-of-Machine-Learning-Systems) |  14. [Databases](#Clustering)  |
-| 15. [Threads and Locks](#Dimensionality-Reduction)    |  16. [Additional Review Problems](#Basics-of-Natural-Language-Processing) |
-| 18. [Some basic questions](#Some-basic-questions)            |  20. [Advance Topics](#Optimization-Procedures) |
+| 1. [Array and Strings](#Array-and-Strings)             |  2. [Linked List](#Linked-List) |
+| 3. [Stack and Queues](#Stack-and-Queues)               |  4. [Trees and Graph](#Trees-and-Graph)|
+| 5. [Bit Manipulation](#Bit-Manipulation)               |  6. [Math and Logic Puzzles](#Math-and-Logic-Puzzles) |
+| 7. [Object-Oriented Design](#Object-Oriented-Design)   |  8. [Recursion and Dynamic Programming](#Recursion-and-Dynamic-Programming) |
+| 9. [System Design and Scalability](#System-Design-and-Scalability)     |  10. [Soting and Searching](#Soting-and-Searching) |
+| 11. [Testing](#Testing)                                |  12. [C and C++](#Cpp) |
+| 13. [Databases](#Databases)                            |  14. [Threads and Locks](#Threads-and-Locks)  |
+| 15. [Advance Topics](#Advance-Topics)                  |  16. [Triplebyte](#Triplebyte)    |  
+| 17. [LeetCode](#LeetCode)                              |  18. [Algoexpert & System Expert)](#Algoexpert) |
 
 
 # Sections: 
