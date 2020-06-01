@@ -8,7 +8,7 @@ This repository includes all the solutions coded and drawn out (whiteboard inter
 ![alt text](https://github.com/rchavezj/Cracking_The_Coding_Interview/blob/master/alg.png)
 
 # Contents: 
-
+|                        |                                          |
 | ---------------------- | ---------------------------------------- |
 | 1. [Array and Strings](#Array-and-Strings)             |  2. [Linked List](#Linked-List) |
 | 3. [Stack and Queues](#Stack-and-Queues)               |  4. [Trees and Graph](#Trees-and-Graph)|
