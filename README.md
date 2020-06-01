@@ -1,14 +1,12 @@
 # Leetcode (C++)
 # TripleByte (So many languages...)
-# Algoexpert and System Design Expert (C++ and Javascript)
+# AlgoExpert and System Expert (C++ and Javascript)
 # Cracking The Coding Interview Solution in C++
 
 This repository includes all the solutions coded and drawn out (whiteboard interview) 
 
 ![alt text](https://github.com/rchavezj/Cracking_The_Coding_Interview/blob/master/alg.png)
 
-
-# Contents:
 # Contents: 
 |                        |                                          |
 | ---------------------- | ---------------------------------------- |
@@ -20,7 +18,7 @@ This repository includes all the solutions coded and drawn out (whiteboard inter
 | 11. [Testing](#Testing)                                |  12. [C and C++](#Cpp) |
 | 13. [Databases](#Databases)                            |  14. [Threads and Locks](#Threads-and-Locks)  |
 | 15. [Advance Topics](#Advance-Topics)                  |  16. [Triplebyte](#Triplebyte)    |  
-| 17. [LeetCode](#LeetCode)                              |  18. [Algoexpert & System Expert)](#Algoexpert) |
+| 17. [LeetCode](#LeetCode)                              |  18. [AlgoExpert & System Expert](#AlgoExpert) |
 
 
 # Sections: 
