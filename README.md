@@ -1,5 +1,5 @@
 # Leetcode (C++)
-# TripleByte (So many languages...)
+# TripleByte (Generalist & Front-End)
 # Cracking The Coding Interview (C++)
 # AlgoExpert and System Expert (C++ and Javascript)
 
