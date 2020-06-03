@@ -1,5 +1,5 @@
 # Leetcode (C++)
-# TripleByte (So many languages...)
+# TripleByte (Generalist)
 # Cracking The Coding Interview (C++)
 # AlgoExpert and System Expert (C++ and Javascript)
 
@@ -22,29 +22,73 @@ This repository includes all the solutions coded and drawn out (whiteboard inter
 
 
 # Sections: 
-### Template 
+### Array and Strings 
 ### ([Return back to Contents](#Contents))
 
-# Sections: 
-### Template 
+
+### Linked List 
 ### ([Return back to Contents](#Contents))
 
-# Sections: 
-### Template
+
+### Stack and Queues
 ### ([Return back to Contents](#Contents))
 
-# Sections: 
-### Basics of Computer Vision and OpenCV 
+
+### Trees and Graph
 ### ([Return back to Contents](#Contents))
 
-# Sections: 
-### Template 
+
+### Bit Manipulation 
 ### ([Return back to Contents](#Contents))
 
-# Sections: 
-### Template
+
+### Math and Logic Puzzles
 ### ([Return back to Contents](#Contents))
 
-# Sections: 
-### Template 
+
+### Object-Oriented Design 
+### ([Return back to Contents](#Contents))
+
+
+### Recursion and Dynamic Programming 
+### ([Return back to Contents](#Contents))
+
+
+### System Design and Scalability
+### ([Return back to Contents](#Contents))
+
+
+### Soting and Searching
+### ([Return back to Contents](#Contents))
+
+
+### Testing
+### ([Return back to Contents](#Contents))
+
+
+### C and C++
+### ([Return back to Contents](#Contents))
+
+
+### Databases
+### ([Return back to Contents](#Contents))
+
+
+### Threads and Locks
+### ([Return back to Contents](#Contents))
+
+
+### Advance Topics
+### ([Return back to Contents](#Contents))
+
+
+### Triplebyte
+### ([Return back to Contents](#Contents))
+
+
+### LeetCode
+### ([Return back to Contents](#Contents))
+
+
+### AlgoExpert & System Expert
 ### ([Return back to Contents](#Contents))
