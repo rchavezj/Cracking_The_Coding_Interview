@@ -5,7 +5,7 @@
 
 This repository includes all the solutions coded and drawn out (whiteboard interview) 
 
-![alt text](https://github.com/rchavezj/Cracking_The_Coding_Interview/blob/master/alg.png)
+![alt text](https://github.com/rchavezj/Cracking_The_Coding_Interview/blob/master/alg.jpg)
 
 # Contents: 
 |                        |                                          |
