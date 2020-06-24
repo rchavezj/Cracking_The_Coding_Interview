@@ -24,7 +24,7 @@ This repository includes all the solutions coded and drawn out (whiteboard inter
 # Sections: 
 ### Array and Strings 
 ([Return back to Contents](#Contents))
-<img src="img/arrayStr.gif" width="700">
+<img src="img/arrayString.jpg" width="700">
 
 ### Linked List 
 ### ([Return back to Contents](#Contents))
