@@ -36,7 +36,7 @@ This repository includes all the solutions coded and drawn out (whiteboard inter
 
 ### Trees and Graph
 ### ([Return back to Contents](#Contents))
-
+<img src="img/treesGraph.jpg">
 
 ### Bit Manipulation 
 ### ([Return back to Contents](#Contents))
