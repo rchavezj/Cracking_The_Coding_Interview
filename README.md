@@ -28,11 +28,11 @@ This repository includes all the solutions coded and drawn out (whiteboard inter
 
 ### Linked List 
 ### ([Return back to Contents](#Contents))
-<img src="img/dLinkedList.jpg" width="700">
+<img src="img/linkedList.jpg">
 
 ### Stack and Queues
 ### ([Return back to Contents](#Contents))
-
+<img src="img/stackQueue.jpg">
 
 ### Trees and Graph
 ### ([Return back to Contents](#Contents))
