@@ -40,7 +40,7 @@ This repository includes all the solutions coded and drawn out (whiteboard inter
 
 ### Bit Manipulation 
 ### ([Return back to Contents](#Contents))
-
+<img src="img/bitManipulation.jpg">
 
 ### Math and Logic Puzzles
 ### ([Return back to Contents](#Contents))
