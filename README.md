@@ -44,7 +44,7 @@ This repository includes all the solutions coded and drawn out (whiteboard inter
 
 ### Math and Logic Puzzles
 ### ([Return back to Contents](#Contents))
-
+<img src="img/lol.jpg">
 
 ### Object-Oriented Design 
 ### ([Return back to Contents](#Contents))
